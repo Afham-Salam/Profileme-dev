@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DMS-ranil.DMS-ranil&left_color=forestgreen&right_color=yellow&left_text=My%20Visitor%20Count"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Afham-salam&left_color=forestgreen&right_color=yellow&left_text=My%20Visitor%20Count"  />
 </div>
 
 ###
@@ -87,7 +87,15 @@
       alt="GitHub activity graph"
     />
   </a>
+    <br/>
+    <br/>
+   <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Afham-salam&theme=vitesse&border_radius=4" alt="GitHub Streak" /></a></p>
 </div> 
+
+
+
+
+
 
 
 ###
