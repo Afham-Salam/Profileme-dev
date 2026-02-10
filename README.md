@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Afham-salam&left_color=forestgreen&right_color=yellow&left_text=My%20Visitor%20Count"  />
-</div>
+
 
 ###
 
